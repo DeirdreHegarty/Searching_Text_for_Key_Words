@@ -1,0 +1,40 @@
+html{
+  height: 100%;
+  background:linear-gradient(#B6E9FA, #FAB6F2);
+}
+
+#output, #input{
+  resize: none;
+  font-family: San-serif;
+  font-size: 12pt;
+  color: black;
+  border:1px solid #88B38D;
+  overflow:auto;
+  width:200px;
+  height:200px;
+  padding: 5px;
+  float: left;
+}
+#centerButtons{
+ width: 300px; 
+ margin: auto; 
+ padding: 5px;
+}
+#centerElements{
+  height:250px;
+  width: 440px;
+  margin:20px auto;
+}
+#clear, #encode, #alternative{
+  padding: 5px;
+}
+#det_style { 
+  font-family: Verdana;
+  color: #fff; 
+  background: #E344D6; 
+  font-size: 14px;
+  
+}
+h1{
+  color: #8C8F8C;
+}
